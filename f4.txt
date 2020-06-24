@@ -1,0 +1,3 @@
+function add(int i) {
+system.out.prinln(i);
+}
